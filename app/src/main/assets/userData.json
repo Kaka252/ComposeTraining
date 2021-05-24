@@ -1,0 +1,869 @@
+{
+  "userList": [
+    {
+      "ageDesc": "31岁",
+      "ageGray": 0,
+      "anonymous": false,
+      "canUseDirectCall": false,
+      "clicked": false,
+      "contacting": false,
+      "dataSource": 0,
+      "expectId": 92042806,
+      "expectText": "求职期望：Java",
+      "f2TabType": -1,
+      "geekAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20200807/a48c0a9c15b2fddb1f8c7109a3d3088da3c1e4dc329c19d2806957e646699df6_s.png",
+      "geekDegree": "本科",
+      "geekContent": "北大街的计算机我身上很深家的计算机我",
+      "geekGender": 1,
+      "geekId": 1061832890,
+      "geekName": "唐香玉",
+      "geekSource": 0,
+      "geekWorkYear": "4年",
+      "geekWorks": [
+        {
+          "certStatus": 0,
+          "company": "畅聊天下",
+          "companyHighlight": {
+            "colour": 0,
+            "content": "畅聊天下",
+            "indexList": []
+          },
+          "current": false,
+          "customIndustryId": 0,
+          "customPositionId": 0,
+          "endDate": "20191201",
+          "endYearMonStr": "2019.12",
+          "geekId": 0,
+          "id": 1035639946,
+          "industryCode": 0,
+          "isPublic": 0,
+          "officeYears": 0,
+          "position": 0,
+          "positionCategory": "测试工程师",
+          "positionLv2": 0,
+          "positionName": "测试工程师",
+          "positionNameHighlight": {
+            "colour": 0,
+            "content": "测试工程师",
+            "indexList": []
+          },
+          "responsibility": "酒店介绍精神上课时间的计算机设计",
+          "startDate": "20170101",
+          "startYearMonStr": "2017.01",
+          "stillWork": false,
+          "workEmphasisList": [
+            "android自动化",
+            "android测试",
+            "windows测试"
+          ]
+        }
+      ],
+      "hlmatches": [
+        {
+          "colour": 0,
+          "content": "计算机设计"
+        },
+        {
+          "colour": 0,
+          "content": "Android测试"
+        },
+        {
+          "colour": 0,
+          "content": "计算机"
+        }
+      ],
+      "jobId": 1111132856,
+      "matches": [
+        "计算机设计",
+        "Android测试",
+        "计算机"
+      ],
+      "salary": "10-11K",
+      "securityId": "rE3pZWKSzqH4D-F1waNS5I_meJcH2Mrzb-49XETpKzsAUHYhqyfWT_jorWn3jPkwTCwlK3Osp9lPYfCfY8A7nFtucueoeg4Wk5xUua4-jE70Ytx8dsnpS9uH7rpEN_jEFW0PJpD78eDWP66bSC4NAXcu8w3jeOF2ghuoLyKpPX2Mxm-NP-wYXFb6ymzMrLvnGdp3eEOTwTffeDPKSvogHPUko_X9V4C9ZSkQ2KGUM5Cy5fJBGxm5qMYWL3g5uPz_cURj48PNyxg_YD-lBLJIJhJVi5RYKWNq5xHteeHQ4odTIlEhvzQ1yKNK362kA8VGl1MVzKyejZWfSkOr37uOzk941WPSdO0BLT0hKWUItowt0rX0kch3HFq4VN4LjeVbXtU7S6S0TbfrHeuUZbw5HcoBW7FCI3yJ02DkC2vGAl9nPg~~",
+      "subTitle": "4年  |  本科  |  10-11K",
+      "viewed": false,
+      "itemType": 1
+    },
+    {
+      "ageDesc": "33岁",
+      "ageGray": 0,
+      "anonymous": false,
+      "canUseDirectCall": false,
+      "clicked": false,
+      "contacting": false,
+      "dataSource": 0,
+      "expectId": 92036871,
+      "f2TabType": -1,
+      "geekAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210310/d37c16f08d04923277be5fdba170317729a0f9b571df56ec01531777b554fed3_s.jpg",
+      "geekDegree": "本科",
+      "geekContent": "你们的朋友可以接受吗？我的小哥哥们真的是很喜欢这个综艺节目了我也看到了这个发布会了吗？我们在这里等着你们的呢。我是赵盖文化",
+      "geekGender": 1,
+      "geekId": 6461118,
+      "geekName": "马克思",
+      "geekSource": 0,
+      "geekWorkYear": "8年",
+      "geekWorks": [
+        {
+          "certStatus": 0,
+          "company": "小兔科技",
+          "companyHighlight": {
+            "colour": 0,
+            "content": "小兔科技",
+            "indexList": []
+          },
+          "current": true,
+          "customIndustryId": 0,
+          "customPositionId": 0,
+          "endDate": "",
+          "endYearMonStr": "至今",
+          "geekId": 0,
+          "id": 712798,
+          "industryCode": 0,
+          "isPublic": 0,
+          "officeYears": 0,
+          "position": 0,
+          "positionCategory": "Java",
+          "positionLv2": 0,
+          "positionName": "Java.,?!’hff",
+          "positionNameHighlight": {
+            "colour": 0,
+            "content": "Java",
+            "indexList": []
+          },
+          "responsibility": "感情的事阿斯顿发生的法律短啊是短发现在有四段视频，比如视频1，视频2，视频3，视频4，实现功能，将视频1，视频2，视频3组合一段视频，视频3要保证视频3的视频数据和音频数据保持一致，提取视频4的音频数据作为新视频的前段的背景音乐。",
+          "startDate": "20130101",
+          "startYearMonStr": "2013.01",
+          "stillWork": true,
+          "workEmphasisList": [
+            "spring",
+            "开发工程师"
+          ]
+        }
+      ],
+      "hlmatches": [
+        {
+          "colour": 0,
+          "content": "综艺节目"
+        },
+        {
+          "colour": 0,
+          "content": "售前咨询"
+        },
+        {
+          "colour": 0,
+          "content": "视频"
+        }
+      ],
+      "jobId": 1111132856,
+      "matches": [
+        "综艺节目",
+        "售前咨询",
+        "视频"
+      ],
+      "salary": "10-11K",
+      "securityId": "ezxk2CSc20kPD--1L20kuxJYQGzmBGuFwbZceouM-A7qssQqjA0dXrT9m7qzG-cGgRc1UKKFcNhmaSLBpCSARQrsqKFAgidPxQtgI-t7oKAmVC8qp7gmCImBcgmOchGbBVJXh-Glr7u7nbL0Y8OaOY0PYkPB_01CXDCjkDMPVpTwrdqlplaIFqixZHetMUNVR7SgQzd_KQTDWWltIGtct7mqIUJOoBaXfojkaG84tuz46XPDytYf-yvDCdGwvcbKoAPO6V6A3FEmbCa54ZAuvH0goqd6Z0pIXI6QJc4s0DZHY7Fnk1EGHB6VZkvRvw-BGdIfizcbnueRNBdrI45b0TNmZFIvfG3ca8Thq_mUkOWiZeKVQCPqvmQMn6lCJ0OBReQcxHDEus-BcJi3v_RKyexHgMdD9ve_wZ_7ZrZKGg~~",
+      "subTitle": "8年  |  本科  |  10-11K",
+      "viewed": false,
+      "itemType": 1
+    },
+    {
+      "ageDesc": "29岁",
+      "ageGray": 0,
+      "anonymous": false,
+      "canUseDirectCall": false,
+      "clicked": false,
+      "contacting": false,
+      "dataSource": 0,
+      "expectId": 92030420,
+      "f2TabType": -1,
+      "geekAvatar": "https://img.bosszhipin.com/beijin/cms/712f9719f035db5249898abc9af00b45ea38f4f6ba3949bbe44e8ad13cdd1fcf161a1ff6808844e0bb478b0230f1772e.png",
+      "geekDegree": "硕士",
+      "geekContent": "3年java后端开发经验，对分布式系统有较深理解。自学能力强，抗压能力强。\n\n3年java后端开发经验，对分布式系统有较深理解。自学能力强，抗压能力强。\n\n3年java后端开发经验，对分布式系统有较深理解。自学能力强，抗压能力强。\n\n3年java后端开发经验，对分布式系统有较深理解。自学能力强，抗压能力强",
+      "geekGender": 0,
+      "geekId": 1100005545,
+      "geekName": "蓝天",
+      "geekSource": 0,
+      "geekWorkYear": "10年以上",
+      "geekWorks": [
+        {
+          "certStatus": 0,
+          "company": "三快在线",
+          "companyHighlight": {
+            "colour": 0,
+            "content": "三快在线",
+            "indexList": []
+          },
+          "current": true,
+          "customIndustryId": 0,
+          "customPositionId": 0,
+          "endDate": "",
+          "endYearMonStr": "至今",
+          "geekId": 0,
+          "id": 1035687878,
+          "industryCode": 0,
+          "isPublic": 0,
+          "officeYears": 0,
+          "position": 0,
+          "positionCategory": "Java",
+          "positionLv2": 0,
+          "positionName": "Java",
+          "positionNameHighlight": {
+            "colour": 0,
+            "content": "Java",
+            "indexList": []
+          },
+          "responsibility": "1. 根据现有架构完善业务需求；\n\n2. 根据产品设计的业务模型进行功能设计、数据结构设计；\n\n3. 独立或参与开发与维护业务系统。\n",
+          "startDate": "20170101",
+          "startYearMonStr": "2017.01",
+          "stillWork": true,
+          "workEmphasisList": [
+            "数据结构",
+            "SQL",
+            "MongoDB",
+            "MySQL",
+            "后端开发"
+          ]
+        },
+        {
+          "certStatus": 0,
+          "company": "华品博睿",
+          "companyHighlight": {
+            "colour": 0,
+            "content": "华品博睿",
+            "indexList": []
+          },
+          "current": false,
+          "customIndustryId": 0,
+          "customPositionId": 0,
+          "endDate": "20170101",
+          "endYearMonStr": "2017.01",
+          "geekId": 0,
+          "id": 1035687877,
+          "industryCode": 0,
+          "isPublic": 0,
+          "officeYears": 0,
+          "position": 0,
+          "positionCategory": "Java",
+          "positionLv2": 0,
+          "positionName": "Java",
+          "positionNameHighlight": {
+            "colour": 0,
+            "content": "Java",
+            "indexList": []
+          },
+          "responsibility": "● 根据现有架构完善业务需求；\n\n● 根据产品设计的业务模型进行功能设计、数据结构设计；\n\n● 独立或参与开发与维护业务系统。\n\n● 酸辣粉\n\n● 用例设计\n\n● 系统",
+          "startDate": "20160101",
+          "startYearMonStr": "2016.01",
+          "stillWork": false,
+          "workEmphasisList": [
+            "数据结构",
+            "后端开发",
+            "MongoDB",
+            "MySQL",
+            "SQL"
+          ]
+        }
+      ],
+      "hlmatches": [
+        {
+          "colour": 0,
+          "content": "Java"
+        },
+        {
+          "colour": 0,
+          "content": "SQL"
+        },
+        {
+          "colour": 0,
+          "content": "Socket技术"
+        }
+      ],
+      "jobId": 1111132856,
+      "matches": [
+        "Java",
+        "SQL",
+        "Socket技术"
+      ],
+      "salary": "10-11K",
+      "securityId": "n0NVGCa8MzC0T-g1nke5Tw-LG1XLpKUtmazcrZdU7ZaIlbhZNtlQlt2OO7gn5Y0JWxBZip8Jd11l9YJWyb7Y1DWjwik4Gu-fXKn90lDx7MATc0EyQOXQeP_t9xEJmlkiJe8Adl5aaaotRL49kEoiasqivtYbYiEGY_oIZglmDwqxyln8Tm8O1wW0LQu2Utu3nc2X2RCfvdcQldzzXy50ulfiDDTfpgCJtawOO86Cu47wq2OIvlEGqYrMmriBUx82MfHbmqTcf0II63ETPchJwdXJknCb1knnlSiYilZjXdbQmU21D7C0EmaSYFNO2Nhlt3VTE4Ljizxm1v3Rmdff4ld4_AJQSADizrEntxkmkz5RT8mUo6adj6fRxHsHlkugn0tcjL-nEzNgB1kAqC9IzJTyR5hHdfCtcDnjCBtcOrJslw~~",
+      "subTitle": "10年以上  |  硕士  |  10-11K",
+      "viewed": false,
+      "itemType": 1
+    },
+    {
+      "ageDesc": "28岁",
+      "ageGray": 0,
+      "anonymous": false,
+      "canUseDirectCall": false,
+      "clicked": false,
+      "contacting": false,
+      "dataSource": 0,
+      "expectId": 724885,
+      "expectText": "求职期望：Java",
+      "f2TabType": -1,
+      "geekAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_15.png",
+      "geekDegree": "本科",
+      "geekContent": "同时也是这是一种",
+      "geekGender": 1,
+      "geekId": 6457793,
+      "geekName": "王强",
+      "geekSource": 0,
+      "geekWorkYear": "1年以内",
+      "geekWorks": [
+        {
+          "certStatus": 0,
+          "company": "今天下午一晚上",
+          "companyHighlight": {
+            "colour": 0,
+            "content": "今天下午一晚上",
+            "indexList": []
+          },
+          "current": true,
+          "customIndustryId": 0,
+          "customPositionId": 0,
+          "endDate": "",
+          "endYearMonStr": "至今",
+          "geekId": 0,
+          "id": 1035651745,
+          "industryCode": 0,
+          "isPublic": 0,
+          "officeYears": 0,
+          "position": 0,
+          "positionCategory": ".NET",
+          "positionLv2": 0,
+          "positionName": ".NET",
+          "positionNameHighlight": {
+            "colour": 0,
+            "content": ".NET",
+            "indexList": []
+          },
+          "responsibility": "他玩手机也钱太多啦。",
+          "startDate": "20201201",
+          "startYearMonStr": "2020.12",
+          "stillWork": true,
+          "workEmphasisList": [
+            "如意的日子"
+          ]
+        }
+      ],
+      "hlmatches": [
+        {
+          "colour": 0,
+          "content": "手机"
+        }
+      ],
+      "jobId": 1111132856,
+      "matches": [
+        "手机"
+      ],
+      "salary": "10-11K",
+      "securityId": "kdr0cYrHc996_-J104xTdfy8ugE5_ryuEbLGTIWot304M0fLX84qZJfCq2iwg-1Pem9jXVxzYkLYY5OCU0j3OWHW07HCwFPWG09p1jTteprpdoNPXSHCHQQxpauUV91-C1Im3yFNuCtdXgBbje-1Q_xFVWTim5RQ9SDSIRF4pbvL1VDOtOg5jattdEdM8BdXnpt9m9mK1Vzxfj3goLIDiI1exIudKFVCifMftQwg4qgwfawtpxQuVVePkn91A0kStz_NMFYmVVUS5dxTlJJVtd-FmvvIf3tFkg2sTDQmhgLq7X1cYb0Medyx1fDD2rcFJEuZsns9T0VNC4g5vxgFHVMODSihThA7bdEJcifhAapb5GzyCQHVFtJJcQZfaEBuknxnwUn-TTHv5NIyYtduR26opmUDpDccA4GZfBE~",
+      "subTitle": "1年以内  |  本科  |  10-11K",
+      "viewed": false,
+      "itemType": 1
+    },
+    {
+      "ageDesc": "38岁",
+      "ageGray": 0,
+      "anonymous": false,
+      "canUseDirectCall": false,
+      "clicked": false,
+      "contacting": false,
+      "dataSource": 0,
+      "expectId": 92042159,
+      "f2TabType": -1,
+      "geekAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20201126/f4110994d24c1053e5b55adc062884874d2fb9456b84d9336e8b3de9eb981ec7_s.jpg",
+      "geekDegree": "博士",
+      "geekContent": "哈哈哈哈哈skdjfh sdfskfsdf",
+      "geekGender": 1,
+      "geekId": 1061832493,
+      "geekName": "Z先生",
+      "geekSource": 0,
+      "geekWorkYear": "7年",
+      "geekWorks": [
+        {
+          "certStatus": 0,
+          "company": "11111111111111111111111",
+          "companyHighlight": {
+            "colour": 0,
+            "content": "11111111111111111111111",
+            "indexList": []
+          },
+          "current": true,
+          "customIndustryId": 0,
+          "customPositionId": 0,
+          "endDate": "",
+          "endYearMonStr": "至今",
+          "geekId": 0,
+          "id": 1035689595,
+          "industryCode": 0,
+          "isPublic": 0,
+          "officeYears": 0,
+          "position": 0,
+          "positionCategory": "数据挖掘",
+          "positionLv2": 0,
+          "positionName": "数据挖掘",
+          "positionNameHighlight": {
+            "colour": 0,
+            "content": "数据挖掘",
+            "indexList": []
+          },
+          "responsibility": "是地方老时间老了沙发时代发生的沙发 ",
+          "startDate": "20160101",
+          "startYearMonStr": "2016.01",
+          "stillWork": true,
+          "workEmphasisList": [
+            "数据分析",
+            "数据仓库"
+          ]
+        },
+        {
+          "certStatus": 0,
+          "company": "博瑞彤芸文化传播",
+          "companyHighlight": {
+            "colour": 0,
+            "content": "博瑞彤芸文化传播",
+            "indexList": []
+          },
+          "current": false,
+          "customIndustryId": 0,
+          "customPositionId": 0,
+          "endDate": "20190801",
+          "endYearMonStr": "2019.08",
+          "geekId": 0,
+          "id": 1035641956,
+          "industryCode": 0,
+          "isPublic": 0,
+          "officeYears": 0,
+          "position": 0,
+          "positionCategory": "Java",
+          "positionLv2": 0,
+          "positionName": "Java",
+          "positionNameHighlight": {
+            "colour": 0,
+            "content": "Java",
+            "indexList": []
+          },
+          "responsibility": "1.用户可通过准备金系统逐保单逐险种的计算准备金，协助产出财务报表。\n2.我负责准备金计算式及准备金试算功能。\n3.信息配置及查询功能",
+          "startDate": "20150301",
+          "startYearMonStr": "2015.03",
+          "stillWork": false,
+          "workEmphasisList": [
+            "Memcached",
+            "PostgreSQL",
+            "微服务架构",
+            "Socket技术",
+            "分布式技术"
+          ]
+        }
+      ],
+      "hlmatches": [
+        {
+          "colour": 0,
+          "content": "Java"
+        },
+        {
+          "colour": 0,
+          "content": "Python"
+        },
+        {
+          "colour": 0,
+          "content": "SQL"
+        }
+      ],
+      "jobId": 1111132856,
+      "matches": [
+        "Java",
+        "Python",
+        "SQL"
+      ],
+      "salary": "10-11K",
+      "securityId": "ksWBVy0E7V2Hw-g1PVi5asTqNO_CXqZxWqFgpzgYJfTsW2U8YxoWoHyAeToFbgq-576GEGB4GEfWNKHGzgqE2Q-vYJ-8zRdE43g-3BgUf43GQD7Sdjk0y90qlDkyb8emSAejfLWjSSCRnNfnhxHljBaJz9syek-Zv8fJTHN5zNjGdZ6Y74Kzl25WiXxZF0s2ly9X3xvOqOXUU0uLKG-VRXQRJ4AMDqACm4S2TK7kbQfm2EYx40T6ZWISz33mI1o2ZabIga8VfcBwRxu4zva1CyhPgvE_nPWPymCxxgMFnis01b6z5do1Jicy7UP2MiOfN0kpK-B2-nUKgaghTVpJlO0W4XfDx-aNKry3s8bmE1E5FtNOEffDV19PRAqvZcfZ3eZhOnNZ7kxW3BGZNsrzXW_PW-4pTILa-PYWi49gSIN-Ug~~",
+      "subTitle": "7年  |  博士  |  10-11K",
+      "viewed": false,
+      "itemType": 1
+    },
+    {
+      "ageDesc": "28岁",
+      "ageGray": 0,
+      "anonymous": false,
+      "canUseDirectCall": false,
+      "clicked": false,
+      "contacting": false,
+      "dataSource": 0,
+      "expectId": 92036781,
+      "f2TabType": -1,
+      "geekAvatar": "https://img.bosszhipin.com/beijin/icon/accc2aa5328029855429b78808f358232663ca289b8004d8ac5bfd40f2ef5a78.png",
+      "geekDegree": "初中及以下",
+      "geekContent": "是今生今世身上撒开卡\n睡觉丝丝",
+      "geekGender": 1,
+      "geekId": 1500003124,
+      "geekName": "是啥",
+      "geekSource": 0,
+      "geekWorkYear": "10年以上",
+      "geekWorks": [
+        {
+          "certStatus": 0,
+          "company": "u世俗数据挖掘",
+          "companyHighlight": {
+            "colour": 0,
+            "content": "u世俗数据挖掘",
+            "indexList": []
+          },
+          "current": true,
+          "customIndustryId": 0,
+          "customPositionId": 0,
+          "endDate": "",
+          "endYearMonStr": "至今",
+          "geekId": 0,
+          "id": 1035651719,
+          "industryCode": 0,
+          "isPublic": 0,
+          "officeYears": 0,
+          "position": 0,
+          "positionCategory": "Java",
+          "positionLv2": 0,
+          "positionName": "Java",
+          "positionNameHighlight": {
+            "colour": 0,
+            "content": "Java",
+            "indexList": []
+          },
+          "responsibility": "jxjsjsjjsksk",
+          "startDate": "20090101",
+          "startYearMonStr": "2009.01",
+          "stillWork": true,
+          "workEmphasisList": [
+            "jxjsj"
+          ]
+        }
+      ],
+      "hlmatches": [
+        {
+          "colour": 0,
+          "content": "开卡"
+        }
+      ],
+      "jobId": 1111132856,
+      "matches": [
+        "开卡"
+      ],
+      "salary": "1-2K",
+      "securityId": "4QHGuRwl_cSBB-h1G9h4ZrWXb3nPA-xNUf4apmxiu-1zZj_bNRZ2Z_8V00VlZDKU67e04sxbz_fPBnJ-8oRGTkxarRhYUajCnQFg0jWbniUKPvoi5SHUhtXOeAVtirDUVvZYmP-0pNlAlvxMbw-DzR7rBMFfRQ3TqDSNgzwIbPjbljlqipCToGM_Eeq7VQr3YoR1p-kAMD6k7HyBkxloCHhNjgTToHwtifP59gSxQQywirSyuWmiKDZunpCbFAxqfhC_6zLdTw6nYYu9wJSp3iQz2fD7cbKTmgrrNmlMZSu1z0McWo2DGtvBib-JHaSVA9pbYYLPI8KAV459-jgqKEUgRxTAvfeom5rxTAcNOCnIu6sQEeehNiCPacA8-IjCuUwQa3is4sNe04hS9UJrjA4bMuc1f1IYrpNfdgu8oVJ1VQ~~",
+      "subTitle": "10年以上  |  初中及以下  |  1-2K",
+      "viewed": false,
+      "itemType": 1
+    },
+    {
+      "ageDesc": "28岁",
+      "ageGray": 0,
+      "anonymous": false,
+      "canUseDirectCall": false,
+      "clicked": false,
+      "contacting": false,
+      "dataSource": 0,
+      "expectId": 92037067,
+      "f2TabType": -1,
+      "geekAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+      "geekDegree": "本科",
+      "geekContent": "N,ndnslkdasnld",
+      "geekGender": 1,
+      "geekId": 1500000954,
+      "geekName": "求职者",
+      "geekSource": 0,
+      "geekWorkYear": "4年",
+      "geekWorks": [
+        {
+          "certStatus": 0,
+          "company": "dasdas dasdasdas",
+          "companyHighlight": {
+            "colour": 0,
+            "content": "dasdas dasdasdas",
+            "indexList": []
+          },
+          "current": false,
+          "customIndustryId": 0,
+          "customPositionId": 0,
+          "endDate": "20201001",
+          "endYearMonStr": "2020.10",
+          "geekId": 0,
+          "id": 1035642175,
+          "industryCode": 0,
+          "isPublic": 0,
+          "officeYears": 0,
+          "position": 0,
+          "positionCategory": "Java",
+          "positionLv2": 0,
+          "positionName": "Java",
+          "positionNameHighlight": {
+            "colour": 0,
+            "content": "Java",
+            "indexList": []
+          },
+          "responsibility": "Dasdasdas dasdasdas",
+          "startDate": "20180101",
+          "startYearMonStr": "2018.01",
+          "stillWork": false,
+          "workEmphasisList": [
+            "Nndsnnds",
+            "Dasdas"
+          ]
+        }
+      ],
+      "jobId": 1111132856,
+      "salary": "10-11K",
+      "securityId": "rn6i_k0zoJhZW-z1xNqW864mMXISz_V1O_Kdg8RYHY1oje1MEC2fz5KjIwQsac7q0VPAUQyl3B_j7tlG38LpflIpanMkZDan5B3gprsa_m_yJCo5MVk7wTiMtXs3deMfBssb1PmX-Dazso0tRnITzFk0kNxKLguk_0BgAraaEd5l-SJyjxBOtiX9WXWje5SVvG9Rp3rieWyiksmbwNYlKmlgwSor2w7TWhebsPseB6R_eglJQOQmSjNyYBf6zuM8jpTBbBw_z9tyDoVLxVAxyzJ1AeP70leFPK5EjHw0VU-dKcvbPvqJ1nRfB59FE7WyhFJcd8WhHBoO_l2l2XZtHcDIijEtb9vRfG2eWn3fsgqFwmzpwqEyAla24XSmKPfPjM3iPvrfwyuoG4XH3OHpNE1a_sFLju79_UZj0d-3meKGqQ~~",
+      "subTitle": "4年  |  本科  |  10-11K",
+      "viewed": false,
+      "itemType": 1
+    },
+    {
+      "ageDesc": "28岁",
+      "ageGray": 0,
+      "anonymous": false,
+      "canUseDirectCall": false,
+      "clicked": false,
+      "contacting": false,
+      "dataSource": 0,
+      "expectId": 723581,
+      "f2TabType": -1,
+      "geekAvatar": "https://img.bosszhipin.com/beijin/mcs/useravatar/20171204/34ed955ecf81ea821ba5d1bb487bb3935c1db636688e05a25ee6a952ffd1b0aa_s.jpg",
+      "geekDegree": "本科",
+      "geekContent": "南山",
+      "geekGender": 0,
+      "geekId": 6456036,
+      "geekName": "求职者",
+      "geekSource": 0,
+      "geekWorkYear": "4年",
+      "geekWorks": [
+        {
+          "certStatus": 0,
+          "company": "百度",
+          "companyHighlight": {
+            "colour": 0,
+            "content": "百度",
+            "indexList": []
+          },
+          "current": true,
+          "customIndustryId": 0,
+          "customPositionId": 0,
+          "endDate": "",
+          "endYearMonStr": "至今",
+          "geekId": 0,
+          "id": 710899,
+          "industryCode": 0,
+          "isPublic": 0,
+          "officeYears": 0,
+          "position": 0,
+          "positionCategory": "Java",
+          "positionLv2": 0,
+          "positionName": "Java",
+          "positionNameHighlight": {
+            "colour": 0,
+            "content": "Java",
+            "indexList": []
+          },
+          "responsibility": "呢呢呢呢",
+          "startDate": "20171201",
+          "startYearMonStr": "2017.12",
+          "stillWork": true,
+          "workEmphasisList": [
+            "iOS",
+            "Android",
+            "后端开发"
+          ]
+        }
+      ],
+      "hlmatches": [
+        {
+          "colour": 0,
+          "content": "后端开发"
+        },
+        {
+          "colour": 0,
+          "content": "iOS"
+        },
+        {
+          "colour": 0,
+          "content": "Android"
+        }
+      ],
+      "jobId": 1111132856,
+      "matches": [
+        "后端开发",
+        "iOS",
+        "Android"
+      ],
+      "salary": "10-11K",
+      "securityId": "G5v6GTLJ9BDLT-D1gZW1meeN6mv4IJjwBMwc6loBX6zj8YLvM4QAyayYNC9qs8OrxLsxysu5JmjiV5ddSUQG59MI85aFI1rE6V6e1ZVP6R75I44dHkfgXkxMR-B2gG73OmT6W-euMUPRCANGgffACP4vgWbJEGl6f_pQ7QkRUqYoxQduFjAOCntP0Vr-mjAdqaaNr4PCfkdq_0dNnX97H-T8aNL3me8EDF0Qt9vFBS_uS7ISXsPEKRt9bO2fAIoi_dLd5zXK-n13lBGwMcQNknJI4DKCSJPjH5gK2F9boGIu6WQR0rz5kQg8paYHrQCOjYMcf-VkulOpQNkhhn7UXGs87oEmo-0KPBDvLbyCUoKqOxC0GmjBzuRsek9km2OdQMpfvMsjHz__NY_X-S7-AZ5hO_oRqlCFE1fGjJw~",
+      "subTitle": "4年  |  本科  |  10-11K",
+      "viewed": false,
+      "itemType": 1
+    },
+    {
+      "ageDesc": "28岁",
+      "ageGray": 0,
+      "anonymous": false,
+      "canUseDirectCall": false,
+      "clicked": false,
+      "contacting": false,
+      "dataSource": 0,
+      "expectId": 92040570,
+      "f2TabType": -1,
+      "geekAvatar": "https://img.bosszhipin.com/boss/avatar/avatar_13.png",
+      "geekDegree": "本科",
+      "geekContent": "vsvvsv",
+      "geekDesc": {
+        "colour": 0,
+        "content": "vsvvsv",
+        "indexList": []
+      },
+      "geekGender": 0,
+      "geekId": 1500000578,
+      "geekName": "四二二",
+      "geekSource": 0,
+      "geekWorkYear": "8年",
+      "geekWorks": [
+        {
+          "certStatus": 0,
+          "company": "云杉世界",
+          "companyHighlight": {
+            "colour": 0,
+            "content": "云杉世界",
+            "indexList": []
+          },
+          "current": true,
+          "customIndustryId": 0,
+          "customPositionId": 0,
+          "endDate": "",
+          "endYearMonStr": "至今",
+          "geekId": 0,
+          "id": 1035692124,
+          "industryCode": 0,
+          "isPublic": 0,
+          "officeYears": 0,
+          "position": 0,
+          "positionCategory": "Java",
+          "positionLv2": 0,
+          "positionName": "Java",
+          "positionNameHighlight": {
+            "colour": 0,
+            "content": "Java",
+            "indexList": []
+          },
+          "responsibility": "1⃣️用户可通过准备金系统逐保单逐险种的计算准备金，协助产出财务报表。2⃣️我负责准备金计算公式及准备金试算功能。3⃣️信息配置及查询功能",
+          "startDate": "20200101",
+          "startYearMonStr": "2020.01",
+          "stillWork": true,
+          "workEmphasisList": [
+            "J2EE架构",
+            "Golang"
+          ]
+        }
+      ],
+      "hlmatches": [
+        {
+          "colour": 0,
+          "content": "信息安全"
+        },
+        {
+          "colour": 0,
+          "content": "内容"
+        },
+        {
+          "colour": 0,
+          "content": "查询功能"
+        }
+      ],
+      "jobId": 1111132856,
+      "matches": [
+        "信息安全",
+        "内容",
+        "查询功能"
+      ],
+      "salary": "10-15K",
+      "securityId": "0zC9zqJS7f_RG-11up1Zg6in7GGWaRa_7RaY1ivM7BDPi0YS0H1VVaNyN9foMqxowZXfNcbchwfH4Y3WL1LocToIzzqlnd4nBN8j3sptfLzMgR6D0amkpowcgDHIz7-AJG8Xd0eB-35iTQeNQK_SBnwC1W-MVeWBVnh0Pmfzk5kYUQCrlXp3E5QoA3Cfpa-x_cLo0mZ2cSidvsddYxycxMgNOhDxs6ZDKcv6-Z2Xt8LtgFX2-1fQyTqmxosBg5eVuL0yTPrXp2eik9Hy5h5wWAmnTlFDzFI5DXpHj3EJNnoqPoi88QmHb5kMB4BjF1WAUwtN4rpCMeLGwygoroKo35jsjf-s1pdhlNBju5nPCp-ygLqa7-w8sOVvMpZCqy7shrxl3lzvFqsdZb2IBOgTj9K_2WiG3Uwbx-Ek4bjogvojig~~",
+      "subTitle": "8年  |  本科  |  10-15K",
+      "viewed": false,
+      "itemType": 1
+    },
+    {
+      "ageDesc": "28岁",
+      "ageGray": 0,
+      "anonymous": false,
+      "canUseDirectCall": false,
+      "clicked": false,
+      "contacting": false,
+      "dataSource": 0,
+      "expectId": 92042929,
+      "expectText": "求职期望：Java",
+      "f2TabType": -1,
+      "geekAvatar": "https://img.bosszhipin.com/beijin/upload/avatar/20210407/c67b3ffd5d239b78decad26a10f162806885c93d0e198086bf994cd19fe15a52_s.jpg",
+      "geekDegree": "本科",
+      "geekContent": "即机构柠檬名额了模糊提示大家一起分享快乐生活一点通",
+      "geekGender": 1,
+      "geekId": 1500004690,
+      "geekName": "刘在石",
+      "geekSource": 0,
+      "geekWorkYear": "6年",
+      "geekWorks": [
+        {
+          "certStatus": 0,
+          "company": "晟邦物流",
+          "companyHighlight": {
+            "colour": 0,
+            "content": "晟邦物流",
+            "indexList": []
+          },
+          "current": false,
+          "customIndustryId": 0,
+          "customPositionId": 0,
+          "endDate": "20210401",
+          "endYearMonStr": "2021.04",
+          "geekId": 0,
+          "id": 1035684343,
+          "industryCode": 0,
+          "isPublic": 0,
+          "officeYears": 0,
+          "position": 0,
+          "positionCategory": "服务员",
+          "positionLv2": 0,
+          "positionName": "服务员",
+          "positionNameHighlight": {
+            "colour": 0,
+            "content": "服务员",
+            "indexList": []
+          },
+          "responsibility": "",
+          "startDate": "20210401",
+          "startYearMonStr": "2021.04",
+          "stillWork": false,
+          "workEmphasisList": [
+            "传菜员"
+          ]
+        }
+      ],
+      "hlmatches": [
+        {
+          "colour": 0,
+          "content": "快乐生活"
+        },
+        {
+          "colour": 0,
+          "content": "传菜员"
+        }
+      ],
+      "jobId": 1111132856,
+      "matches": [
+        "快乐生活",
+        "传菜员"
+      ],
+      "salary": "10-11K",
+      "securityId": "QL9mgVPo54dhq-O11GJv3TBUBjuem1IDPDu4-5Mq_irkCQ5yj61kWn4qS5ubwpc7C1ZPuDfXNyH7Jsab7aKvNJ2LD5A5jgMO-8GZ3XTHIieNp0lTmXMpIKL_fRK0Fn1J1fymXV4keXTAw9iYhY-tj4y9H9x8A30rsIHWhpBJh-xulMcevniwTofo7dWDeEJmDwAl6v8OVJX3GkMM5NVtDva1B-qtDUC8ynUHfYnBhliFVnpviawRBN-5jKLG6pb59zUQAe0AI6WY3Sp1ULl0mwqpCTjNTQHyHsQ7h56nlWIN0wbzAWqrnntUKU5CkKwb6x8acwDvvFzv6-Vd1k6m59NCvmIeYqiw-hGXX8Gs_oRkWZFf2sY9-MrAK3339E3R9eGrKCePtO4roSRTZb8ciBHD647Qk-s2AZ-N-ZMZ17YrFQ~~",
+      "subTitle": "6年  |  本科  |  10-11K",
+      "viewed": false,
+      "itemType": 1
+    }
+  ],
+  "hasMore": true
+}

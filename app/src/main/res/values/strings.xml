@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">我的APP</string>
+    <string name="robot">robot</string>
+
+    <string name="string_tab_user">牛人</string>
+    <string name="string_tab_search">搜索</string>
+    <string name="string_tab_contact">消息</string>
+    <string name="string_tab_my">我的</string>
+
+
+
+
+    <!--  Weather Demo -->
+    <string name="weather_sunny">Sunny</string>
+    <string name="weather_cloudy">Cloudy</string>
+    <string name="weather_overcast">Overcast</string>
+    <string name="weather_small_rain">Small rain</string>
+    <string name="weather_mid_rain">Mid rain</string>
+    <string name="weather_big_rain">Big rain</string>
+
+    <string name="weather_rainstorm">Rainstorm</string>
+    <string name="weather_small_snow">Small snow</string>
+
+    <string name="weather_mid_snow">Mid snow</string>
+    <string name="weather_big_snow">Big snow</string>
+    <string name="weather_snowstorm">Snowstorm</string>
+    <string name="weather_foggy">Foggy</string>
+
+    <string name="weather_ice">Ice</string>
+    <string name="weather_haze">Haze</string>
+
+    <string name="weather_air_quality">Air quality</string>
+
+    <string name="city_new_york">New York</string>
+    <string name="city_los_angeles">Los Angeles</string>
+    <string name="city_chicago">Chicago</string>
+    <string name="city_houston">Houston</string>
+    <string name="city_san_francisco">San Francisco</string>
+
+    <string name="basic_rain">Probability of precipitation:</string>
+    <string name="basic_humidity">Humidity:</string>
+    <string name="basic_body_temperature">Body temperature:</string>
+    <string name="basic_air_pressure">Air pressure:</string>
+    <string name="basic_precipitation">Precipitation:</string>
+    <string name="basic_visibility">Visibility:</string>
+</resources>

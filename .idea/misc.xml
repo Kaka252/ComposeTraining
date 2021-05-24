@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1620355481340.xml" value="0.67" />
+        <entry key="../../../../layout/compose-model-1620366652905.xml" value="0.6203703703703703" />
+        <entry key="../../../../layout/compose-model-1620374069816.xml" value="0.35462962962962963" />
+        <entry key="../../../../layout/compose-model-1620459606571.xml" value="0.3298141891891892" />
+        <entry key="../../../../layout/compose-model-1620626082611.xml" value="0.3298141891891892" />
+        <entry key="../../../../layout/compose-model-1620635359767.xml" value="0.3298141891891892" />
+        <entry key="../../../../layout/compose-model-1620637565572.xml" value="0.3298141891891892" />
+        <entry key="../../../../layout/compose-model-1620645966755.xml" value="0.3298141891891892" />
+        <entry key="../../../../layout/compose-model-1620649975654.xml" value="0.3298141891891892" />
+        <entry key="../../../../layout/compose-model-1620702114846.xml" value="0.2351851851851852" />
+        <entry key="../../../../layout/compose-model-1620727450417.xml" value="0.33" />
+        <entry key="../../../../layout/compose-model-1620727751771.xml" value="0.33" />
+        <entry key="../../../../layout/compose-model-1620728872741.xml" value="0.3298141891891892" />
+        <entry key="../../../../layout/compose-model-1620740036267.xml" value="0.2212962962962963" />
+        <entry key="../../../../layout/compose-model-1620791282343.xml" value="0.3298141891891892" />
+        <entry key="../../../../layout/compose-model-1620793462621.xml" value="0.16296296296296298" />
+        <entry key="../../../../layout/compose-model-1620800839166.xml" value="0.3298141891891892" />
+        <entry key="../../../../layout/compose-model-1620801862287.xml" value="0.16296296296296298" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3963541666666667" />
+        <entry key="app/src/main/res/drawable/loading_animation.xml" value="0.31574074074074077" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
